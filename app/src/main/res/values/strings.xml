@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SR todolist</string>
+    <string name="task_add">Add a new Task</string>
+    <string name="task">Task</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="todo">TODO</string>
+    <string name="date">December 15, 2021</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="ut">Update your task</string>
+</resources>
